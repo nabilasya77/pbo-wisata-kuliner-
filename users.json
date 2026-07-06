@@ -1,0 +1,13 @@
+{
+  "nabila": {
+    "nama": "nabila",
+    "password": "nabila",
+    "created_at": "2026-07-01 12:39"
+  },
+  "admin": {
+    "nama": "Administrator",
+    "password": "admin123",
+    "role": "admin",
+    "created_at": "2026-07-01 12:56"
+  }
+}
