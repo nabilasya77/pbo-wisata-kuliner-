@@ -6,9 +6,7 @@ import tkinter as tk
 import tkinter.font as tkfont
 from tkinter import ttk, messagebox
 
-# =========================================================================
-# 1. KONFIGURASI & DATA STATIS (meniru isi database wonogiri_wisata.sql)
-# =========================================================================
+
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 USERS_FILE = os.path.join(BASE_DIR, "users.json")
