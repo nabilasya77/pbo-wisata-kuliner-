@@ -146,10 +146,7 @@ def format_rupiah(n):
     return "Rp " + f"{n:,}".replace(",", ".")
 
 
-# =========================================================================
-# 2. WIDGET KUSTOM (rounded pill button & badge) - meniru gaya .btn / .badge
-#    pada style.css: border-radius penuh, warna solid, efek hover.
-# =========================================================================
+
 
 def _rounded_rect_points(x1, y1, x2, y2, r):
     r = min(r, (x2 - x1) / 2, (y2 - y1) / 2)
